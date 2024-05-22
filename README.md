@@ -3,12 +3,15 @@ This is a collection of practical projects I have done to improve my skills. I i
 
 ## Coding 👨‍💻:
 
-### Next.JS
+### React.JS
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
 | project 01 | | |
 
-
+### Next.JS
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
 
 ## UI/UX 🧑‍🎨:
 ### Figma: 
