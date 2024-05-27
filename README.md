@@ -29,6 +29,13 @@ This is a collection of practical projects I have done to improve my skills. I i
 | ---------------- | --------------- | ----------------- |
 | project 01 | | |
 
+## Full-Stack 👨‍💻:
+### Django
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
+
+
 
 ## Mobile App Development
 ### React Native:
