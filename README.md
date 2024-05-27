@@ -1,8 +1,13 @@
 # Practical projects:
 This is a collection of practical projects I have done to improve my skills. I invite you to do it too, my main idea is to motivate you so that you can reach your highest level.
 
-## Front-End 👨‍💻:
+## UI/UX 🧑‍🎨:
+### Figma: 
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| UI Design: Movie Tickets Booking App | [Live](https://www.figma.com/design/TYRDZsYSEM8cY3dQzOv2hQ/Movie-Tickets-Booking-App?node-id=0-1&t=3Hh9TijRxH1BLnFh-1) | video link |
 
+## Front-End 👨‍💻:
 ### React.JS
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
@@ -14,7 +19,6 @@ This is a collection of practical projects I have done to improve my skills. I i
 | project 01 | | |
 
 ## Back-end 👨‍💻:
-
 ### Django
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
@@ -26,20 +30,10 @@ This is a collection of practical projects I have done to improve my skills. I i
 | project 01 | | |
 
 
-Mobile App Development
-React Native:
-
-🗂️ Project Name: Fitness Tracker App
-🔗 Live Project: Project Link
-🎥 Video Tutorial: Video Link
-Flutter:
-
-🗂️ Project Name: Grocery Delivery App
-🔗 Live Project: Project Link
-🎥 Video Tutorial: Video Link
-
-## UI/UX 🧑‍🎨:
-### Figma: 
+## Mobile App Development
+### React Native:
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
-| UI Design: Movie Tickets Booking App | project link | video link |
+| project 01 | | |
+
+
