@@ -5,7 +5,7 @@ This is a collection of practical projects I have done to improve my skills. I i
 ### Figma: 
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
-| UI Design: Movie Tickets Booking App | [Live](https://www.figma.com/design/TYRDZsYSEM8cY3dQzOv2hQ/Movie-Tickets-Booking-App?node-id=0-1&t=3Hh9TijRxH1BLnFh-1) | video link |
+| UI Design: Movie Tickets Booking App | [Live](https://www.figma.com/design/TYRDZsYSEM8cY3dQzOv2hQ/Movie-Tickets-Booking-App?node-id=0-1&t=3Hh9TijRxH1BLnFh-1) | [ Video ](https://www.youtube.com/watch?v=Jo9yksmQRrk&list=PLwStLOWnW4dynv5J6mQGh-glcedsL-tq2) |
 
 ## Front-End 👨‍💻:
 ### React.JS
@@ -30,11 +30,10 @@ This is a collection of practical projects I have done to improve my skills. I i
 | project 01 | | |
 
 ## Full-Stack 👨‍💻:
-### Django
+### ...
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
 | project 01 | | |
-
 
 
 ## Mobile App Development
@@ -42,5 +41,3 @@ This is a collection of practical projects I have done to improve my skills. I i
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
 | project 01 | | |
-
-
