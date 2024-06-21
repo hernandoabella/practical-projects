@@ -1,5 +1,6 @@
 # Practical projects:
-This is a collection of practical projects I have done to improve my skills. I invite you to do it too, my main idea is to motivate you so that you can reach your highest level.
+This is a collection of practical projects I have done to improve my skills. </br>
+I invite you to do it too, my main idea is to motivate you so that you can reach your highest level.
 
 ## UI/UX 🧑‍🎨:
 ### Figma: 
@@ -35,6 +36,11 @@ This is a collection of practical projects I have done to improve my skills. I i
 | ---------------- | --------------- | ----------------- |
 | project 01 | | |
 
+## Data Science 👨‍💻:
+### ...
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
 
 ## Mobile App Development
 ### React Native:
