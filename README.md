@@ -60,13 +60,7 @@ I invite you to do it too, my main idea is to motivate you so that you can reach
 | project 01 | | |
 
 ## Data Science 👨‍💻:
-### ...
-| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
-| ---------------- | --------------- | ----------------- |
-| project 01 | | |
-
-## Mobile App Development
-### React Native:
+### DBT
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
 | project 01 | | |
@@ -74,6 +68,14 @@ I invite you to do it too, my main idea is to motivate you so that you can reach
 ## Data Bases 😁 👍 
 ### MySQL:
 
+### PostgreSQL:
+
 ### MongoDB:
 
 ### DuckDB:
+
+## Mobile App Development
+### React Native:
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
