@@ -9,6 +9,13 @@ I invite you to do it too, my main idea is to motivate you so that you can reach
 | UI Design: Movie Tickets Booking App | [Live](https://www.figma.com/design/TYRDZsYSEM8cY3dQzOv2hQ/Movie-Tickets-Booking-App?node-id=0-1&t=3Hh9TijRxH1BLnFh-1) | [ Video ](https://www.youtube.com/watch?v=Jo9yksmQRrk&list=PLwStLOWnW4dynv5J6mQGh-glcedsL-tq2) |
 
 ## Front-End 👨‍💻:
+
+### HTML & CSS
+
+### JavaScript
+
+### TypeScript
+
 ### React.JS
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
@@ -24,6 +31,10 @@ I invite you to do it too, my main idea is to motivate you so that you can reach
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
 | project 01 | | |
+
+### Firebase:
+
+### Supabase:
 
 ### Node.JS
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
@@ -59,3 +70,10 @@ I invite you to do it too, my main idea is to motivate you so that you can reach
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
 | project 01 | | |
+
+## Data Bases 😁 👍 
+### MySQL:
+
+### MongoDB:
+
+### DuckDB:
