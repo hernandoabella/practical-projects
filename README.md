@@ -80,12 +80,28 @@ Personal practical projects collection.
 
 ## Data Bases 😁 👍 
 ### MySQL:
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
+
 
 ### PostgreSQL:
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
+
 
 ### MongoDB:
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
+
 
 ### DuckDB:
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
+
 
 ## Mobile App Development
 ### React Native:
