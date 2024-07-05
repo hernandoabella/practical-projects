@@ -10,10 +10,19 @@ Personal practical projects collection.
 ## Front-End 👨‍💻:
 
 ### HTML & CSS
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
 
 ### JavaScript
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
 
 ### TypeScript
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
 
 ### React.JS
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
