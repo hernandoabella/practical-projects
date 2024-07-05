@@ -27,6 +27,11 @@ I invite you to do it too, my main idea is to motivate you so that you can reach
 | project 01 | | |
 
 ## Back-end 👨‍💻:
+### Flask
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
+
 ### Django
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
