@@ -65,6 +65,9 @@ Personal practical projects collection.
 | project 01 | | |
 
 ### Laravel
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
 
 ## Full-Stack 👨‍💻:
 ### ...
