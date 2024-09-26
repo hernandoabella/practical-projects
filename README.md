@@ -35,6 +35,11 @@ Personal practical projects collection.
 | project 01 | | |
 
 ## Back-end 👨‍💻:
+### Python
+| 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
+| ---------------- | --------------- | ----------------- |
+| project 01 | | |
+
 ### Flask
 | 🗂️ Project Name | 🔗 Live Project | 🎥 Video Tutorial |
 | ---------------- | --------------- | ----------------- |
