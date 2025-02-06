@@ -1,5 +1,5 @@
 # Practical projects:
-Personal practical projects collection.
+The best way of learning is by practicing.
 
 ## UI/UX 🧑‍🎨:
 ### Figma: 
