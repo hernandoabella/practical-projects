@@ -1,5 +1,5 @@
 # Practical projects
-Practical tutorials I've made for practicing my skills:
+Practical tutorials I've made for practicing my skills.
 
 ## UI/UX 🧑‍🎨:
 ### Figma: 
