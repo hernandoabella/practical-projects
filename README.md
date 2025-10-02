@@ -1,5 +1,5 @@
 # Practical projects
-Practical tutorials I've made for practicing my skills.
+Learning by building is the best way to learn:
 
 ## UI/UX 🧑‍🎨:
 ### Figma: 
